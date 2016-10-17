@@ -1,0 +1,9 @@
+{
+    "name": "Example .Net Core app",
+    "image": "https://github.com/uatec/heroku_dotnet_container",
+    "buildpacks": [
+        {
+            "url": "https://github.com/uatec/dotnet_buildpack"
+        }
+    ]
+}
